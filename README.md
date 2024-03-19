@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @udayredy
-- 👀 I’m interested in learning new languages as I am beginner now..
-- 🌱 I’m currently learning python..
-- 📫 How to reach me email:yudaykumarreddy123@gmail.com...
+- 🌱 I’m currently learning Data Science and Machine learning
+- 📫 How to reach me linkedin:<a href=https://www.linkedin.com/in/uday-kumarreddy/>Uday-Kumar-Reddy</a>
 
 <!---
 udayredy/udayredy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
